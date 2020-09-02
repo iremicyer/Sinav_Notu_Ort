@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\SinavNotuOrtHesapla\SinavNotuOrtHesapla\bin\Debug\SinavNotuOrtHesapla.exe.config
+C:\Users\Administrator\source\repos\SinavNotuOrtHesapla\SinavNotuOrtHesapla\bin\Debug\SinavNotuOrtHesapla.exe
+C:\Users\Administrator\source\repos\SinavNotuOrtHesapla\SinavNotuOrtHesapla\bin\Debug\SinavNotuOrtHesapla.pdb
+C:\Users\Administrator\source\repos\SinavNotuOrtHesapla\SinavNotuOrtHesapla\obj\Debug\SinavNotuOrtHesapla.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SinavNotuOrtHesapla\SinavNotuOrtHesapla\obj\Debug\SinavNotuOrtHesapla.Form1.resources
+C:\Users\Administrator\source\repos\SinavNotuOrtHesapla\SinavNotuOrtHesapla\obj\Debug\SinavNotuOrtHesapla.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SinavNotuOrtHesapla\SinavNotuOrtHesapla\obj\Debug\SinavNotuOrtHesapla.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SinavNotuOrtHesapla\SinavNotuOrtHesapla\obj\Debug\SinavNotuOrtHesapla.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SinavNotuOrtHesapla\SinavNotuOrtHesapla\obj\Debug\SinavNotuOrtHesapla.exe
+C:\Users\Administrator\source\repos\SinavNotuOrtHesapla\SinavNotuOrtHesapla\obj\Debug\SinavNotuOrtHesapla.pdb
